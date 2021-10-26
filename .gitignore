@@ -24,7 +24,8 @@
 *.tar.gz
 *.rar
 *.bat
-*gradle
+*gradle*
+*idea*
 #properties files #
 *.properties
 
